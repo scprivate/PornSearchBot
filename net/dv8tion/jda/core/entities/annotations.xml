@@ -1,0 +1,5 @@
+<root>
+    <item name='net.dv8tion.jda.core.entities.TextChannel'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
